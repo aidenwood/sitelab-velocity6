@@ -1,9 +1,9 @@
 # sl-tailwind
 Sitelab tailwind vanilla coded website design - pushed by Netlify.
 
-Job list:
 
-# current
+
+# job list
 - Finalise basic Home page design and migration. 
 
 - create your own horizontal-slider.css (keep unopinionated, share with Velocity)
