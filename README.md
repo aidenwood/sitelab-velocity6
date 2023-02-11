@@ -1,5 +1,5 @@
 # sl-tailwind
-Sitelab tailwind vanilla coded website design - pushed by Cloudflare only.
+Sitelab Analytics - Velocity / Tailwind - pushed by Cloudflare / Netlify.
 
 
 
